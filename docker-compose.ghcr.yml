@@ -1,0 +1,16 @@
+# Same service, but using the image built by GitHub Actions (no build on the NAS).
+# Replace OWNER with your GitHub user name (lower case).
+name: immich-ml-fallback
+
+services:
+  immich-ml-fallback:
+    image: ghcr.io/OWNER/immich-ml-fallback:latest
+    container_name: immich-ml-fallback
+    restart: unless-stopped
+    ports:
+      - "${PROXY_PORT:-3003}:3003"
+    volumes:
+      - ${DATA_PATH:-./data}:/data:ro
+    environment:
+      LOG_LEVEL: ${LOG_LEVEL:-info}
+    mem_limit: 256m

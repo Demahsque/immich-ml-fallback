@@ -1,0 +1,52 @@
+# Queries used by `evaluate` (French and English, typical photo-library searches).
+plage
+chien
+chat noir
+coucher de soleil
+coucher de soleil sur la mer
+montagne enneigée
+chien dans la neige
+enfants qui jouent dans le jardin
+gâteau d'anniversaire
+repas de famille
+vélo sur la route
+voiture rouge
+bateau sur le lac
+forêt en automne
+ciel étoilé
+feu d'artifice
+fleurs jaunes
+oiseau sur une branche
+pizza et bière
+mariage en plein air
+photo de groupe
+vue aérienne d'une ville
+cascade dans la forêt
+cheval dans un pré
+concert de nuit
+bébé qui rit
+sapin de noël
+randonnée en montagne
+ski au coucher du soleil
+café sur une terrasse
+dog on the beach
+red car
+mountain lake at sunrise
+people dancing at a concert
+birthday cake with candles
+cat sleeping on a sofa
+snowy mountain
+sunset over the sea
+kids playing in the garden
+city at night
+bicycle in the forest
+wedding dress
+family dinner
+white flowers
+street food
+old town street
+hot air balloon
+airplane in the sky
+horse in a field
+close-up of a bee on a flower
+person walking on the beach

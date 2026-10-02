@@ -1,0 +1,78 @@
+# Multi-word expressions encoded as a whole (their meaning is not the sum of their words).
+coucher de soleil
+lever de soleil
+arc-en-ciel
+feu d'artifice
+feux d'artifice
+voie lactée
+ciel étoilé
+pleine lune
+heure dorée
+noir et blanc
+vue aérienne
+vue panoramique
+bonhomme de neige
+sapin de noël
+gâteau d'anniversaire
+père noël
+chasse aux œufs
+mont blanc
+lac léman
+tour eiffel
+statue de la liberté
+grande roue
+parc d'attractions
+fête foraise
+marché de noël
+repas de famille
+photo de groupe
+photo de famille
+jour de l'an
+nouvel an
+fête d'anniversaire
+mariage en plein air
+robe de mariée
+voiture de sport
+vélo de route
+vélo de montagne
+vélo électrique
+course à pied
+ski de fond
+saut en parachute
+parc national
+forêt tropicale
+forêt enneigée
+champ de blé
+champ de lavande
+champ de tournesols
+plage de sable
+eau turquoise
+mer agitée
+ciel nuageux
+ciel orageux
+temps pluvieux
+arbre en fleurs
+fleurs sauvages
+feuilles d'automne
+paysage de montagne
+lac de montagne
+chalet en bois
+petit déjeuner
+repas au restaurant
+plat de pâtes
+tarte aux pommes
+pain au chocolat
+chien de berger
+golden retriever
+chat noir
+chat roux
+oiseau en vol
+chute d'eau
+train à vapeur
+bateau à voile
+avion de ligne
+ville la nuit
+rue pavée
+vieille ville
+bord de mer
+bord de lac

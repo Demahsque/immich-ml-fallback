@@ -1,0 +1,17 @@
+# Fallback ML proxy for Immich (text search only). See README.md.
+name: immich-ml-fallback
+
+services:
+  immich-ml-fallback:
+    build: .
+    image: immich-ml-fallback:local
+    container_name: immich-ml-fallback
+    restart: unless-stopped
+    ports:
+      - "${PROXY_PORT:-3003}:3003"
+    volumes:
+      # vectors.npy + index.json generated on the Mac (see README, step 1)
+      - ${DATA_PATH:-./data}:/data:ro
+    environment:
+      LOG_LEVEL: ${LOG_LEVEL:-info}
+    mem_limit: 256m
